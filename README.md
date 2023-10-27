@@ -55,11 +55,5 @@ main.py - main machine learning module
 <br>
 <b> Video of setup and demo is available <a href="https://drive.google.com/file/d/1iP5RqdlREx_YbP-5RZqo7fB1rElQ2igi/view?usp=sharing">here</a></b>
 <br>
-<h2> Admin Credentails </h2><br>
-<b>Username:</b> admin
-<br>
-<b>Email:</b> stockmarketpred@gmail.com
-<br>
-<b>Password:</b> Samplepass@123
 
 
